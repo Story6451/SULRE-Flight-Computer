@@ -2,6 +2,9 @@
 #include <DataLogging.h>
 #include <DataReading.h>
 #include <DataTransmitting.h>
+#include <LoRa.h>
+#include <SPI.h>
+
 
 DataLogging dataLogger;
 DataReading dataReader;
